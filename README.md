@@ -1,4 +1,4 @@
-# Hospital Operations Agents: Plain vs Secure (Agentic AI Security, A3)
+# Hospital Operations Agents: Plain vs Secure (Agentic AI Security)
 
 Two runnable Python agents for **synthetic hospital equipment and maintenance operations**, built to compare an intentionally vulnerable agent with a hardened one under the same attacks.
 
